@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "795539253831",
+    "firebase_url": "https://growwcode-31cec-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "growwcode-31cec",
+    "storage_bucket": "growwcode-31cec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795539253831:android:e3c962a8cf45dcac449f62",
+        "android_client_info": {
+          "package_name": "com.example.growwcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaghjCboLtGwCRNhmkWSUC78LoYb6b5bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
